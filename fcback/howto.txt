@@ -1,0 +1,3 @@
+sbt
+re-start
+http://localhost:8080/heroes
